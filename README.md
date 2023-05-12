@@ -1,3 +1,5 @@
+<a href="https://github.com/ankurksoni"><img width="100%" height="auto" src="./img/profile.png" /></a>
+
 <h1 align="left" id="ankurksoni-title">Hello there! 👋 I'm Ankur Soni</h1>
 <h3 align="left">I do Backend Engineering things</h3>
 
