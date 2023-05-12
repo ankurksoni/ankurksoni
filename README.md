@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="left" id="ankurksoni-title">Hello there! 👋 I'm Ankur Soni</h1>
 <h3 align="left">I do Backend Engineering things</h3>
 
