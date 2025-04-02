@@ -95,13 +95,13 @@
 
 6️⃣ In summary, I am a passionate software developer who always strives to follow best practices and implement the latest technologies and methodologies to build robust and scalable software systems. 🚀💻
 
-7️⃣ Reputations earned on Stack Overflow: 5000+ 👑
+7️⃣ Reputations earned on Stack Overflow: 6000+ 👑
 
-8️⃣ Badges earned on Stack Overflow: 5 gold, 47 silver, and 78 bronze 🏅🏆
+8️⃣ Badges earned on Stack Overflow: 5 gold, 57 silver, and 88 bronze 🏅🏆
 
-9️⃣ I have around 7+ years of experience in Node.js development with MongoDB, good understanding of JavaScript. I have been doing development over Server Side with Node.js and Mongo DB along with Core Java 6/8 with PostgreSQL. I have a passion and ability to create wonderful backend distributed, scalable, performance, high standard applications, Typescript with AWS Lambdas. 💻🌐
+9️⃣ I have around 7+ years of experience in Node.js development with MongoDB, and a good understanding of JavaScript. I have been developing on the server side with Node.js and Mongo DB, along with Core Java 6/8 with PostgreSQL. I am passionate and able to create wonderful backend distributed, scalable, performance, high standard applications, Typescript with AWS Lambdas. 💻🌐
 
-🔟 I have a very strong knowledge of the Software Development Cycle Process with utmost responsibility towards communication and deliverable. 💯📆
+🔟 I have a very strong knowledge of the Software Development Cycle Process with utmost responsibility towards communication and deliverables. 💯📆
 </p>
 <!--
 **ankurksoni/ankurksoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
