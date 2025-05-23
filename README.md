@@ -83,25 +83,76 @@
 <h2 align="left" id="ankurksoni-tech">Bit more about me</h2>
 
 <p>
-1️⃣ I am passionate about software design and development with best practices. 💻📈 I possess strong analytical and lateral thinking skills that enable me to solve complex problems efficiently.
+---
+  
+## 🚀 **Backend Engineering Leader | System Architect | 10+ Years Experience | Node.js | TypeScript | AWS | Scalable Systems**
 
-2️⃣ My expertise in Object-Oriented Programming (OOP) and SOLID principles allows me to design scalable and maintainable software systems. 🧱🚀 I believe in the DRY (Don't Repeat Yourself) principle, which helps me to avoid code duplication and make the codebase more organized and efficient.
+I specialize in **AI-first, fast-paced backend development** and have built **robust, scalable systems** that are architecturally sound and performance-optimized. Over the past decade, I’ve led critical engineering efforts that drive measurable business impact through technical excellence and clean design.
 
-3️⃣ I have extensive experience in implementing Design Patterns, which are proven solutions to recurring software design problems. These patterns help to improve code readability, maintainability, and scalability. 🔍🛠️
+---
 
-4️⃣ I am proficient in Agile Methodologies, which allows me to work effectively in a team and deliver high-quality software within the given timeframe. 🤝🎯 I believe in continuous learning and always keep myself updated with the latest trends and technologies in the software development industry. 📚🌐
+## 🔧 Core Strengths
 
-5️⃣ My expertise in Function-as-a-Service (FaaS) and Serverless architectures helps me to build scalable and cost-effective applications. 💰💻 I also have experience in implementing Message Broker architecture, which enables asynchronous communication between distributed systems and provides fault tolerance and scalability. 📨👥
+- 🚀 Microservices architecture, gRPC services & event-driven systems  
+- 🚀 Deep expertise in **Node.js**, **TypeScript**, **PostgreSQL**, and **MongoDB**  
+- 🚀 AWS Cloud infrastructure and distributed systems at scale  
 
-6️⃣ In summary, I am a passionate software developer who always strives to follow best practices and implement the latest technologies and methodologies to build robust and scalable software systems. 🚀💻
+---
 
-7️⃣ Reputations earned on Stack Overflow: 6000+ 👑
+## 🛠️ Core Technical Skills
 
-8️⃣ Badges earned on Stack Overflow: 5 gold, 57 silver, and 88 bronze 🏅🏆
+### 🤖 AI & Tooling
+- OpenAI API
+- Cursor IDE
 
-9️⃣ I have around 7+ years of experience in Node.js development with MongoDB, and a good understanding of JavaScript. I have been developing on the server side with Node.js and Mongo DB, along with Core Java 6/8 with PostgreSQL. I am passionate and able to create wonderful backend distributed, scalable, performance, high standard applications, Typescript with AWS Lambdas. 💻🌐
+### 🧰 Backend Development
+- Node.js, TypeScript, JavaScript
+- NestJS, Nx Monorepo
 
-🔟 I have a very strong knowledge of the Software Development Cycle Process with utmost responsibility towards communication and deliverables. 💯📆
+### 🗄️ Databases
+- PostgreSQL 🐘
+- MongoDB 🍃
+- Elasticsearch 🔍
+
+### ☁️ Cloud & DevOps
+- AWS ☁️
+- Docker 🐳
+- Ansible 🧰
+
+### 📨 Message Brokers
+- Apache Kafka 🔁
+- AWS SQS 📬
+
+### 🌐 Network Protocols
+- WebSockets 🔌
+- Server-Sent Events (SSE) 🔄
+- RESTful APIs 🌐
+- HTTP/2 ⚡
+- gRPC 📡
+
+---
+
+## 💡 Key Highlights
+
+- ⚙️ **Sidecar Pattern Implementation**: Designed gRPC + API server separation, boosting response efficiency by **2×**
+- 🧩 **Monolith to Microservices**: Led migration effort, increasing deployment agility by **3×**
+- 🔍 **Query Optimization**: Tuned MongoDB, PostgreSQL, MSSQL queries, cutting average response time by **40%**
+- ⚡ **Caching Strategy**: Integrated DynamoDB and Memcache layers, reducing latency by **35%**
+- 🧑‍🏫 **Team Leadership**: Mentored teams of **5–8 engineers**, delivering high-quality output with clear technical direction
+- 🚀 **Ansible Automation**: Engineered CI/CD deployments, accelerating provisioning speed by **8×**
+- 🔗 **Data Migrations**: Designed scalable migration workflows for millions of records using AWS-native tools
+- 📘 **Documentation Excellence**: Produced API specs, architecture blueprints, and ops runbooks recognized for clarity and maintainability
+
+---
+
+## 🎯 What I’m Looking For
+
+I bring a **hands-on leadership mindset** with a passion for **clean system design**, **performance optimization**, and **team mentorship**. I’m currently exploring **backend-focused opportunities** where **quality, scale, and clarity** are non-negotiable values.
+
+---
+
+📫 Feel free to connect or reach out if you’re building something exciting in the backend or AI space!
+
 </p>
 <!--
 **ankurksoni/ankurksoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
