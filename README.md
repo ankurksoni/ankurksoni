@@ -83,7 +83,6 @@
 <h2 align="left" id="ankurksoni-tech">Bit more about me</h2>
 
 <p>
----
   
 ## 🚀 **Backend Engineering Leader | System Architect | 10+ Years Experience | Node.js | TypeScript | AWS | Scalable Systems**
 
